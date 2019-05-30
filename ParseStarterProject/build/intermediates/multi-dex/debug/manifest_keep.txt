@@ -1,0 +1,3 @@
+# Referenced at /Users/ravismbp/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:40
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+

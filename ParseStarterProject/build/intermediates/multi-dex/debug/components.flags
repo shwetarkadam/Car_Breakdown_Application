@@ -1,0 +1,104 @@
+-injars /Users/ravismbp/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/7dc3e8f782abbff3cc8042f1be9684db/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b3b096de51152dd8fb83339bf5afddf2/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/3cd80143b11b57228fe71ff5c0bc32b0/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/ed1ccea51a4670ab02e1f709f1035a0d/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/779336a5fbfe02b8843448e3e2d6be37/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/779336a5fbfe02b8843448e3e2d6be37/jars/libs/internal_impl-23.0.0.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2694486918885d23d170a32f2587dfb4/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2807162d9f9dd4ec6787b9c711eb2ef7/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/8ea42341f10e1da1e8a43de7240acd4f/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/104effcd56e4a7d11b62dfa8917a4914/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/721708a00470e129f37f8ae74a3ea1b7/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/25521e2d269b2774f403510992090966/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/295d3752fc7acb57a6995598105bab34/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/2422437392b6022fd7f0930d4dcbdb13/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/2dc37472d3759d2100d43ee8f2d016fe/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.4.0.aar/ddabefcb0fb814f8dc4a3f077d7fe56b/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/73d5bab7d8321a33d96e1132de939559/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/d23e4002e4cb568a80508476557fcf91/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/03c8d0a216700e595b532914ce1391c8/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/24b899f67676c4ce36ca0bf648a5d6e0/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/d2fbaaff3cb16f5598dd64a896f977e8/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/346940b8bfbfa9a07507f5add5ad1da5/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/3ef458bf0b98f7bc4d4fe5337643da43/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/c77d3b17fdc06f23894c7997fb1093fb/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.4.0.aar/5e0e5953557e35927d6b7bce0d8b8294/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-database-9.4.0.aar/a5eb290b29e9d7454ca08814f12216c1/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.4.0.aar/20b219c14c9dc52aebd88f787bc484ef/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-storage-9.4.0.aar/444966ffbb1ad549d8c4f5bb17276dc2/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-9.4.0.aar/baabb338ccd5a23610c9e9e43c202f81/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/070caec523156f0b809efc17301c6d8b/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/32b66cfe12dee069cfa65bebf17f10f8/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/98600a8062bc77c75629ec68518ab5b7/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/1b31c12d0efb2b82afbb153edc560113/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/d591e73c0b0e396869b96cec716341a2/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/69cc1eb0350c548795acf354e11231e0/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/903b27d5a5934682ffeda9a906ff81b0/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/c8ec5f3b96da4927e08efadf639968f5/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/766f9de130b3f0826597af20a532e6b8/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/ed85402d86b000e59777643a42d3f591/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/79fac97634d15beb0da4f0aa0944136d/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/b438752b932d428dd2bd0a9cff01c183/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/d560e2d710e85cd6d7028cff32742680/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/6543ff829254de9b7ccc9061e4a0afe3/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/f7fbbb632ad8f33727d61c417c55505e/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/9038bdab2c888a8760c55d3a3fb65a6f/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/2e4940812ffe6d38187ff24e8dd85d6b/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/bdf4e128729e0dd1ec2474bfa875a7a2/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/e09c90ce046182ef595d88bb23b929d2/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/28356e9b74830ab9bb03eff264de7a31/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/dcf1f875086fd7a47c34c0fc0a521066/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/45cbd05b3a9a849d5293a4de47b2fb0c/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/472624f5d4850d848afc4b0e9e36bef0/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/2556991eb1a99b41e6a04a0d8cbad80f/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/fe2fae19fe96a3b0f13b709163e33d8b/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/46a489fa921f21a2b4bd3a9af714585c/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/f2127d05d238f903a9d4d63591b4a4bb/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/1538a4680f12620c2194684c9962d340/jars/classes.jar(**.class)
+-injars /Users/ravismbp/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/1538a4680f12620c2194684c9962d340/jars/libs/internal_impl-23.4.0.jar(**.class)
+-injars /Users/ravismbp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar(**.class)
+-injars /Users/ravismbp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar(**.class)
+-injars /Users/ravismbp/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/classes/debug(**.class)
+-outjars /Users/ravismbp/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/ravismbp/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/ravismbp/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/ravismbp/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:40
+-keep class com.parse.starter.StarterApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

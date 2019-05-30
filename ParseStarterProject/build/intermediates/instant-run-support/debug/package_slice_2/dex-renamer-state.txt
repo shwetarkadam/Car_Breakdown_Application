@@ -1,0 +1,4 @@
+#Thu May 30 17:59:52 IST 2019
+base.0=/Users/ravismbp/Downloads/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/55
+path.0=classes.dex
+renamed.0=classes.dex
