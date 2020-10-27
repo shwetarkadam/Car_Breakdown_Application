@@ -42,7 +42,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public boolean onKey(View view, int i, KeyEvent keyEvent) {
-
+       boolean t=true;
+        if(t){
+           redirectActivity();
+            }
         if (i == KeyEvent.KEYCODE_ENTER && keyEvent.getAction() == KeyEvent.ACTION_DOWN) {
 
             signUp(view);
